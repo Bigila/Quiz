@@ -79,3 +79,22 @@ button:active {
 .options {
     margin: 0.2rem 0.6rem;
 }
+
+@media (max-width : 900px) {
+    .main{
+        display: grid;
+        place-items: center;
+        
+    }
+
+    .main2 {
+        margin:auto;
+    }
+    .heading {
+        color: rgb(255, 0, 0)
+    }
+}
+
+
+
+
